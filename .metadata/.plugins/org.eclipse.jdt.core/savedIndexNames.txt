@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\Users\Shraman\Desktop\adt-bundle-windows-x86-20140321\Projects\SnapMap\.metadata\.plugins\org.eclipse.jdt.core
